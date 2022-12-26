@@ -1,1 +1,3 @@
-# Siteportf-lio
+# Siteportfólio
+
+> Status do projeto: em andamento
